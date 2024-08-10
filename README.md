@@ -1,2 +1,2 @@
-# -CodeAlpha_Project_Name
+# -CodeAlpha_Student_Grade_Calculator
 This is java code
